@@ -3,7 +3,8 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+  #test to try committing a change to GitHub
+  return 0
 end
 
 def max_2_sum arr
